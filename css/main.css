@@ -1,0 +1,55 @@
+/* body {
+    margin: auto;
+    width: 75%;
+    background-color: mistyrose;
+} */
+
+/* .menu {
+    background-color: powderblue;
+    padding: 15px;
+    width: 80%;
+    margin: auto;
+} */
+
+.menuitem {
+    display: inline;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.menuitem a:hover {
+    color: papayawhip;
+}
+
+.main_page {
+    margin: auto;
+    min-height: 75%;
+    padding: 10px;
+    text-align: center;
+    width: 90%;
+    border: 2px solid pink;
+}
+
+.main_page h1 {
+    margin: auto;
+    border: 2px dotted aqua;
+}
+
+/* footer {
+    background-color: antiquewhite;
+    padding: 10px;
+    width: 70%;
+    margin: auto;
+    vertical-align: bottom;
+} */
+
+.footerdiv_left {
+    text-align: left;
+    display: inline;
+}
+
+.footerdiv_right {
+    float: right;
+    text-align: right;
+    display: inline;
+}
